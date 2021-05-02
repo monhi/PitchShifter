@@ -1,0 +1,6 @@
+*.ncb
+*.sdf
+*.suo
+*.aps
+ipch/
+Debug/
